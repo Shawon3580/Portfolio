@@ -88,7 +88,7 @@ nav li{
 .about-info{
     display: flex;
     padding: 0px 70px 130px 70px;   
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .about-description{
     text-align: center;
